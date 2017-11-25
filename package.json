@@ -1,0 +1,14 @@
+{
+  "name": "myWatsonApp",
+  "version": "1.0.0",
+  "description": "A Watson Personality Insights application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cfenv": "^1.0.3",
+    "express": "^4.13.4",
+    "watson-developer-cloud": "^2.2.0"
+  }
+}
